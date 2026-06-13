@@ -1,25 +1,22 @@
 {
-	"short_name": "OneLoad",
-	"name": "OneLoad By Astola Studio",
-	"icons": [
-		{
-			"src": "https://raw.githubusercontent.com/astola-studio/AFlix/refs/heads/main/OneloadLogo.ico",
-			"sizes": "64x64 32x32 24x24 16x16",
-			"type": "image/x-icon"
-		},
-		{
-			"src": "https://retailer.oneloadpk.com/static/media/oneload-logo.9fe86a73a1a261cd9cc0.png",
-			"type": "image/png",
-			"sizes": "192x192"
-		},
-		{
-			"src": "https://retailer.oneloadpk.com/static/media/oneload-logo.9fe86a73a1a261cd9cc0.png",
-			"type": "image/png",
-			"sizes": "512x512"
-		}
-	],
-	"start_url": "https://retailer.oneloadpk.com/load",
-	"display": "standalone",
-	"theme_color": "#000000",
-	"background_color": "#ffffff"
+  "short_name": "OneLoad",
+  "name": "OneLoad By Astola Studio",
+  "start_url": "https://retailer.oneloadpk.com/load",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://retailer.oneloadpk.com/static/media/oneload-logo.9fe86a73a1a261cd9cc0.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://retailer.oneloadpk.com/static/media/oneload-logo.9fe86a73a1a261cd9cc0.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
