@@ -1,6 +1,6 @@
 {
-  "short_name": "OneLoad",
-  "name": "OneLoad By Astola Studio",
+  "short_name": "AstolaLoad",
+  "name": "AstolaLoad",
   "start_url": "https://retailer.oneloadpk.com/load",
   "display": "standalone",
   "theme_color": "#000000",
